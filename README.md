@@ -37,22 +37,23 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 
 #### Scores by School Type
 
+### Trends
+#### - District Summary:
+#### - Top Performing School:
+#### - Bottom Performing School:
+#### - Math Scores:
+- 9th 
+- 10th
+- 11th
+- 12th
+#### - Reading Scores:
+- 9th
+- 10th
+- 11th
+- 12th
+#### - Scores by School Spending:
+#### - Sorces by School Size:
+#### - Socres by School Type:
+
 ### Summary
 - four changes to the school district analysis after reading and math scores have been replaced
-
-- District Summary:
-- Top Performing School:
-- Bottom Performing School:
-- Math Scores:
--   9th 
--   10th
--   11th
--   12th
-- Reading Scores:
--   9th
--   10th
--   11th
--   12th
-- Scores by School Spending:
-- Sorces by School Size:
-- Socres by School Type:
