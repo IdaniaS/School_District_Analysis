@@ -35,8 +35,9 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and Reading scores by grade
+- - The calculations for passing rates with the "clean_student_data" produced a passing math percentage of 74.76% while the percentage passing for reading was about 85.66%.
 - Listed nan for Thomas High School under the ninth-grade scores.
-- The calculations for passing rates with the "clean_student_data" produced a passing math percentage of 74.76% while the percentage passing for reading was about 85.66%.
+
 
 ![Note19](https://user-images.githubusercontent.com/86635590/127786650-19234e5c-eb3d-406b-b034-8e1c50e7cde6.JPG)
 ![Note18](https://user-images.githubusercontent.com/86635590/127786629-28635bba-7201-4372-befb-4ef4dd51f2f2.JPG)
