@@ -71,6 +71,6 @@ The top five schools classified by top performance fall under the Charter classi
 
 ### Summary
 - With the modified results removing the ninth-grade scores the average for Thomas High School and the distrct decreased. The Thomas High School still ranked above most in the top ranked schools based on the student performance.
-- The potential for academic dishonesty is shown in the data and should be evaluated by the school board for future reference when comparing the class grades.
+- The potential for academic dishonesty is shown in the data and should be evaluated by the school board for future reference when comparing class grades in each school.
 - The school board should analyze how the size and classification of the school have impacted the scores. With the large schools failing in comparison to small and medium size schools. Along with the District schools remaining in the bottom 5 ranked based on student performance. With the math and reading scores being replaced the trend continues. 
 - There are 461 students in the ninth-grade at Thomas High School out of the 1635 students in total. The smaller school along with its classification as a Charter school should be analyzed in the fial decision as both these allow for the school to condinue to produce its high ranking performance numbers.
