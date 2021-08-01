@@ -1,4 +1,3 @@
-![Note13](https://user-images.githubusercontent.com/86635590/127786553-c5678fc4-72fa-4abe-8cd2-50d4230fb83c.JPG)
 # School_District_Analysis
 ## PyCity Schools
 
@@ -17,7 +16,7 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 
 ### Results
 #### How is the district summary afftected?
-- The district summary was negatively impacted by replacing the ninth-grade reading and math scores. The number of students decreased from 39,170 to 38,709. The average reading and math scores and the overall students passing was impacted negativly.
+- The district summary was negatively impacted by replacing the ninth-grade reading and math scores. The overall number of students was not drastically changed but decreased from 39,170 to 38,709. The average reading and math scores along with the overall students passing was impacted negativly.
 
 ![Note7](https://user-images.githubusercontent.com/86635590/127786109-7bc6f97b-b6a9-4518-9f5f-081111981c80.JPG)
 
