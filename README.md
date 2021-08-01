@@ -16,14 +16,20 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 
 ### Results
 #### How is the district summary afftected?
+- The district summary was negatively impacted by replacing the ninth-grade reading and math scores. The number of students decreased from 39,170 to 38,709. The average reading and math scores and the overall students passing was impacted negativly.
 
-
+![Note7](https://user-images.githubusercontent.com/86635590/127786109-7bc6f97b-b6a9-4518-9f5f-081111981c80.JPG)
 
 #### How is the school summary affected?
--
+- There was a decrease in math and reading scores when the ninth-grade class was omitted from the Thomas High School's overall average scores and percentage passing.
+
+![Note10](https://user-images.githubusercontent.com/86635590/127786373-e6ac9c22-637a-4931-8b5d-2703d5bbc5d4.JPG)
+![Note11](https://user-images.githubusercontent.com/86635590/127786450-30992602-f8e5-42ce-be9b-717777ea7ed5.JPG)
+![Note12](https://user-images.githubusercontent.com/86635590/127786472-c0cb38b1-2f71-4dc5-91a1-24f990029a6b.JPG)
+
 
 #### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
--
+- 
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and Reading scores by grade
