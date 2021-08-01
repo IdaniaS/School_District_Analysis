@@ -2,13 +2,41 @@
 ## PyCity Schools
 
 ### Overview of school district anaylsis
-Maria would like to analyze the district-wide standardized test results for Reading and Math. Analyzing the scores as well as the information on various schools each student attends. 
+Maria would like to analyze the district-wide standardized test results for Reading and Math. Specifically comparing data for Thomas High School ninth graders. Collecting all the data and providing the school board with an evaluation of reading and math grades for schools in the district.
+- Scores by school spending per student, by school size, and by school type
+- Total School Budget
+- Average Math Score for each grade level
+- Average Reading Score for each grade level
+- % Passing Math
+- % Passing Reading
+- % Overall Passing
 
 ### Purpose of this anaylsis
-Produce and analyze trends in school performance testing in subjects Math and Reading
+Produce and analyze trends in school performance testing in subjects Math and Reading. Maria would also like an analysis on how replacing the math and reading scores for Thomas High School with NaNs affected the overall analysis.
 
 ### Results
-- bullet points addressing how each of the seven school district metrics was affected by the changes in the data
+#### How is the district summary afftected?
+
+
+
+#### How is the school summary affected?
+-
+
+#### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+-
+
+#### How does replacing the ninth-grade scores affect the following:
+##### Math and Reading scores by grade
+-
+
+##### Scores by school spending
+-
+
+##### Scores by school size
+-
+
+##### Scores by school type
+-
 
 #### District Summary
 - District metrects table
@@ -32,10 +60,6 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 - Average Math and Reading score
 - Percent passing Math and percent passing reading
 - Percent of overall students passing Math and Reading
-
-#### Scores by School Size
-
-#### Scores by School Type
 
 ### Trends
 #### - District Summary:
