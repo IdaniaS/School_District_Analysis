@@ -29,12 +29,14 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 
 
 #### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-- In the image below Thomas High school's performance is ranked second in the top five highest scoring schools. 
+- In the image below Thomas High school's performance is ranked second in the top five highest scoring schools. The overall ninth-grade scores have impacted the district and school but have not drastically changed the standing of the Thomas High School's performance to the other schools.
+
 ![Note13](https://user-images.githubusercontent.com/86635590/127786557-528e92a9-8004-459d-a0a3-2e03c54a94a7.JPG)
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and Reading scores by grade
 - Listed nan for Thomas High School under the ninth-grade scores.
+- The calculations for passing rates with the "clean_student_data" produced a passing math percentage of 74.76% while the percentage passing for reading was about 85.66%.
 
 ![Note19](https://user-images.githubusercontent.com/86635590/127786650-19234e5c-eb3d-406b-b034-8e1c50e7cde6.JPG)
 ![Note18](https://user-images.githubusercontent.com/86635590/127786629-28635bba-7201-4372-befb-4ef4dd51f2f2.JPG)
@@ -48,14 +50,14 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 ![Note22](https://user-images.githubusercontent.com/86635590/127786735-723533a8-15a6-4802-baf2-764448a15706.JPG)
 
 ##### Scores by school size
+- The largest of the schools had the lowest overall passing percentage at under 60% it is significantly lower than the other schools. The medium schools had the highest overall percent of students passing and in close competition with small schools, both with 90%+ passing.
+
 ![Note23](https://user-images.githubusercontent.com/86635590/127786754-ebb03947-43d1-4f23-9037-7f704a2c8a34.JPG)
 ![Note25](https://user-images.githubusercontent.com/86635590/127786765-48e2a090-1d05-4b0e-8410-147d65576278.JPG)
 
-
-
 ##### Scores by school type
+The top five schools classified by top performance fall under the Charter classification, whereas the bottom five schools are established as District.
 ![Note27](https://user-images.githubusercontent.com/86635590/127786771-1cd40173-8f7f-45c8-a3fa-dff4c86e1d12.JPG)
-
 
 #### Top Performing Schools
 - Top performance based on percent of overall students passing
@@ -66,4 +68,7 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 -![Note14](https://user-images.githubusercontent.com/86635590/127786797-cef5ff9e-6237-4dc8-a49f-79fbc7ab1e52.JPG)
 
 ### Summary
-- four changes to the school district analysis after reading and math scores have been replaced
+- With the modified results removing the ninth-grade scores the average for Thomas High School and the distrct decreased. The Thomas High School still ranked above most in the top ranked schools based on the student performance.
+- The potential for academic dishonesty is shown in the data and should be evaluated by the school board for future reference when comparing the class grades.
+- The school board should analyze how the size and classification of the school have impacted the scores. With the large schools failing in comparison to small and medium size schools. Along with the District schools remaining in the bottom 5 ranked based on student performance. With the math and reading scores being replaced the trend continues. 
+- There are 461 students in the ninth-grade at Thomas High School out of the 1635 students in total. The smaller school along with its classification as a Charter school should be analyzed in the fial decision as both these allow for the school to condinue to produce its high ranking performance numbers.
