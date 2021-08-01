@@ -1,3 +1,4 @@
+![Note13](https://user-images.githubusercontent.com/86635590/127786553-c5678fc4-72fa-4abe-8cd2-50d4230fb83c.JPG)
 # School_District_Analysis
 ## PyCity Schools
 
@@ -29,61 +30,41 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 
 
 #### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-- 
+- In the image below Thomas High school's performance is ranked second in the top five highest scoring schools. 
+![Note13](https://user-images.githubusercontent.com/86635590/127786557-528e92a9-8004-459d-a0a3-2e03c54a94a7.JPG)
 
 #### How does replacing the ninth-grade scores affect the following:
 ##### Math and Reading scores by grade
--
+- Listed nan for Thomas High School under the ninth-grade scores.
+
+![Note19](https://user-images.githubusercontent.com/86635590/127786650-19234e5c-eb3d-406b-b034-8e1c50e7cde6.JPG)
+![Note18](https://user-images.githubusercontent.com/86635590/127786629-28635bba-7201-4372-befb-4ef4dd51f2f2.JPG)
 
 ##### Scores by school spending
--
-
-##### Scores by school size
--
-
-##### Scores by school type
--
-
-#### District Summary
-- District metrects table
-
-#### School Summary
-
-
-#### Top Performing Schools
-- Top performance based on percent of overall students passing
-
-#### Bottom Performing Schools
-- Bottom performance based on percent of overall students passing
-
-#### Math Scores by Grade
-- 9th, 10th, 11th, and 12th grade for each school
-
-#### Reading Scores by Grade
- - 9th, 10th, 11th, and 12th grade for each school
-
-#### Scores by School Spending
 - Average Math and Reading score
 - Percent passing Math and percent passing reading
 - Percent of overall students passing Math and Reading
 
-### Trends
-#### - District Summary:
-#### - Top Performing School:
-#### - Bottom Performing School:
-#### - Math Scores:
-- 9th 
-- 10th
-- 11th
-- 12th
-#### - Reading Scores:
-- 9th
-- 10th
-- 11th
-- 12th
-#### - Scores by School Spending:
-#### - Sorces by School Size:
-#### - Socres by School Type:
+![Note20](https://user-images.githubusercontent.com/86635590/127786725-12a6b88b-7859-4ee3-9ae9-7e30e03dafb3.JPG)
+![Note22](https://user-images.githubusercontent.com/86635590/127786735-723533a8-15a6-4802-baf2-764448a15706.JPG)
+
+##### Scores by school size
+![Note23](https://user-images.githubusercontent.com/86635590/127786754-ebb03947-43d1-4f23-9037-7f704a2c8a34.JPG)
+![Note25](https://user-images.githubusercontent.com/86635590/127786765-48e2a090-1d05-4b0e-8410-147d65576278.JPG)
+
+
+
+##### Scores by school type
+![Note27](https://user-images.githubusercontent.com/86635590/127786771-1cd40173-8f7f-45c8-a3fa-dff4c86e1d12.JPG)
+
+
+#### Top Performing Schools
+- Top performance based on percent of overall students passing
+![Note13](https://user-images.githubusercontent.com/86635590/127786791-087fde7f-b6d7-4991-8357-af3d8ac7c09c.JPG)
+
+#### Bottom Performing Schools
+- Bottom performance based on percent of overall students passing
+-![Note14](https://user-images.githubusercontent.com/86635590/127786797-cef5ff9e-6237-4dc8-a49f-79fbc7ab1e52.JPG)
 
 ### Summary
 - four changes to the school district analysis after reading and math scores have been replaced
