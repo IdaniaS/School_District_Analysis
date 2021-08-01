@@ -46,6 +46,7 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 - Average Math and Reading score
 - Percent passing Math and percent passing reading
 - Percent of overall students passing Math and Reading
+- The overall percentage of students passing is negatively impacted by the correlation of the school spending.
 
 ![Note20](https://user-images.githubusercontent.com/86635590/127786725-12a6b88b-7859-4ee3-9ae9-7e30e03dafb3.JPG)
 ![Note22](https://user-images.githubusercontent.com/86635590/127786735-723533a8-15a6-4802-baf2-764448a15706.JPG)
