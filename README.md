@@ -23,7 +23,6 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 #### How is the school summary affected?
 - There was a decrease in math and reading scores when the ninth-grade class was omitted from the Thomas High School's overall average scores and percentage passing.
 
-![Note10](https://user-images.githubusercontent.com/86635590/127786373-e6ac9c22-637a-4931-8b5d-2703d5bbc5d4.JPG)
 ![Note11](https://user-images.githubusercontent.com/86635590/127786450-30992602-f8e5-42ce-be9b-717777ea7ed5.JPG)
 ![Note12](https://user-images.githubusercontent.com/86635590/127786472-c0cb38b1-2f71-4dc5-91a1-24f990029a6b.JPG)
 
@@ -34,12 +33,13 @@ Produce and analyze trends in school performance testing in subjects Math and Re
 ![Note13](https://user-images.githubusercontent.com/86635590/127786557-528e92a9-8004-459d-a0a3-2e03c54a94a7.JPG)
 
 #### How does replacing the ninth-grade scores affect the following:
-##### Math and Reading scores by grade
-- - The calculations for passing rates with the "clean_student_data" produced a passing math percentage of 74.76% while the percentage passing for reading was about 85.66%.
+##### Reading and Math scores by grade
+- The calculations for passing rates with the "clean_student_data" produced a passing math percentage of 74.76% while the percentage passing for reading was about 85.66%.
 - Listed nan for Thomas High School under the ninth-grade scores.
 
-
+- Reading:
 ![Note19](https://user-images.githubusercontent.com/86635590/127786650-19234e5c-eb3d-406b-b034-8e1c50e7cde6.JPG)
+- Math:
 ![Note18](https://user-images.githubusercontent.com/86635590/127786629-28635bba-7201-4372-befb-4ef4dd51f2f2.JPG)
 
 ##### Scores by school spending
@@ -67,10 +67,11 @@ The top five schools classified by top performance fall under the Charter classi
 
 #### Bottom Performing Schools
 - Bottom performance based on percent of overall students passing
--![Note14](https://user-images.githubusercontent.com/86635590/127786797-cef5ff9e-6237-4dc8-a49f-79fbc7ab1e52.JPG)
+![Note14](https://user-images.githubusercontent.com/86635590/127786797-cef5ff9e-6237-4dc8-a49f-79fbc7ab1e52.JPG)
 
 ### Summary
-- With the modified results removing the ninth-grade scores the average for Thomas High School and the distrct decreased. The Thomas High School still ranked above most in the top ranked schools based on the student performance.
+- With the modified results removing the ninth-grade scores the average for Thomas High School and the distrct decreased. The Thomas High School still ranked above most schools based on the student performance.
 - The potential for academic dishonesty is shown in the data and should be evaluated by the school board for future reference when comparing class grades in each school.
-- The school board should analyze how the size and classification of the school have impacted the scores. With the large schools failing in comparison to small and medium size schools. Along with the District schools remaining in the bottom 5 ranked based on student performance. With the math and reading scores being replaced the trend continues. 
-- There are 461 students in the ninth-grade at Thomas High School out of the 1635 students in total. The smaller school along with its classification as a Charter school should be analyzed in the fial decision as both these allow for the school to condinue to produce its high ranking performance numbers.
+- The school board should analyze how the size and classification of the school have impacted the scores. With the large schools falling short in comparison to small and medium size schools. Along with the District schools ranking in the bottom 5 based on student performance. When replacing the ninth-grade math and reading scores the trend continues. There are 461 students in the ninth-grade at Thomas High School out of the 1635 students in total. The smaller school along with its classification as a Charter school should be analyzed in the fial decision as both these allow for the school to condinue to produce its high ranking performance numbers.
+- Thomas High School is negatively impacted by the ninth-grade scores being redacted.
+- Thomas High School has a mid-range budget that allows the school to capably focus how the money can be spent to benefit all students attending the school. The spending ranges per student directly impacts student performance.
